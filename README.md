@@ -1,9 +1,9 @@
 ### Olá, Eu sou Udymilla Chagas 👋
 
-📓 Atualmente estou concluindo o 3° ano do ensino médio
-👩‍💻 Tecnica em Desensolvimento de Siste 3/3 (ainda não concluido)
-👧🏻 17 anos
-⌛  Adoro ler e me desafiar
+- 📓 Atualmente estou concluindo o 3° ano do ensino médio
+- 👩‍💻 Tecnica em Desensolvimento de Siste 3/3 (ainda não concluido)
+- 👧🏻 17 anos
+- ⌛  Adoro ler e me desafiar
 
 <div align="center">
   <a href="https://github.com/Udymilla">

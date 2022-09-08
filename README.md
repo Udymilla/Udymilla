@@ -2,7 +2,7 @@
 
 - 📓 Atualmente estou concluindo o 3° ano do ensino médio
 - 👩‍💻 Tecnica em Desenvolvimento de Sistemas 3/3 (ainda não concluido)
-- 👧🏻 17 anos
+- 👧🏻 18 anos
 - ⌛  Adoro ler e me desafiar
 
 <div align="center">

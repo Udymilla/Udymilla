@@ -14,6 +14,9 @@
  
   <img align="center" alt="Udy-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=138&color=0d439c">
   <img align="center" alt="Udy-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Udy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Udy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Udy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </div>
  
@@ -21,7 +24,9 @@
  <div> 
 
   <a href="https://instagram.com/udymillachagas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:udymillachagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5514988347978&text=Ol%C3%A1%2C%20Udymilla%2C%20tudo%20bem%3F" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   ![Snake animation](https://github.com/Udymilla/Udymilla/blob/output/github-contribution-grid-snake.svg)]
+  <a href = "mailto:udymillachagas@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?phone=5514988347978&text=Ol%C3%A1%2C%20Udymilla%2C%20tudo%20bem%3F" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   ![Snake animation](https://github.com/Udymilla/Udymilla/blob/output/github-contribution-grid-snake.svg)
    </div>

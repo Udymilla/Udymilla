@@ -4,7 +4,7 @@
 - 👩‍💻 Tecnica em Desenvolvimento de Sistemas 3/3 (ainda não concluido)
 - 👧🏻 18 anos
 - ⌛  Adoro ler e me desafiar
-- Marquesa do reino de Lazynation
+
 
 <div align="center">
   <a href="https://github.com/Udymilla">

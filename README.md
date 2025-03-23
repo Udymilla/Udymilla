@@ -1,7 +1,7 @@
 ### Olá, Eu sou Udymilla Chagas 👋
 
-- 👩‍💻 Tecnica em Desenvolvimento de Sistemas 
-- 👧🏻 18 anos
+- 👩‍💻 Tecnica em Desenvolvimento de Sistemas e graduanda em Ciencia da Computaçao 
+- 👧🏻 20 anos
 - ⌛  Adoro ler e me desafiar
 
 
